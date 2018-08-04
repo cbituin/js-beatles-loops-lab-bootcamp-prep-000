@@ -4,9 +4,9 @@ function theBeatlesPlay(musician, instrument){
   var array = new Array();
   for (let i = 0; i < array.length; i++){
   array.push(`${musician[i]} plays ${instrument[i]}`)
-    }
+    
     return array;
-}
+}}
 
 
 // TODO + Create a function `johnLennonFacts`. This function will accept one argument, an array of facts about John Lennon (note that it might not be exactly the following facts):
