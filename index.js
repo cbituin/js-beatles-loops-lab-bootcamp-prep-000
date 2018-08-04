@@ -40,14 +40,11 @@ function iLoveTheBeatles(n){
     } while (i <= n);
     return newArr;
 }
-=======
-=======
+
     while(i < array.length){
         let facts = array[i];
         array.push(facts + '!!!');
         i++;
     }
     return array;
->>>>>>> 6760d37c06eadc211cea1fa4597a9c0edb6b465f
 }
->>>>>>> 144f35b99749fc1aa2bd7fa769a66324d6521481
